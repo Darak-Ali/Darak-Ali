@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior DevOps Engineer** with **4+ years** of experience designing, automating, and running cloud-native infrastructure across **AWS, Azure, GCP, DigitalOcean, and Hetzner Cloud**. I live at the intersection of **Kubernetes, Infrastructure as Code, and CI/CD automation** — turning fragile manual deployments into reliable, self-healing, scalable systems.
+I'm a **Senior DevOps Engineer** with **4+ years** of experience designing, automating, and running cloud-native infrastructure across **AWS, Azure, GCP, DigitalOcean, and Hetzner Cloud**. I live at the intersection of **Kubernetes, Infrastructure as Code, and CI/CD automation** turning fragile manual deployments into reliable, self-healing, scalable systems.
 
 I care about **uptime, observability, and shipping fast without breaking things.** Give me a messy pipeline or an unoptimized cluster, and I'll hand you back something clean, automated, and boring in the best way possible.
 
@@ -85,7 +85,7 @@ currently: Building resilient platforms @ ZAPTA Technologies
 
 ## 💼 What I've Built
 
-**4+ years** engineering cloud infrastructure and delivery pipelines for production workloads across **Fintech, Healthcare, and SaaS** platforms — environments where uptime, compliance, and data security aren't optional.
+**4+ years** engineering cloud infrastructure and delivery pipelines for production workloads across **Fintech, Healthcare, and SaaS** platforms environments where uptime, compliance, and data security aren't optional.
 
 ### 💳 Fintech Platforms
 - Provisioned and hardened multi-cloud infrastructure (**AWS, Azure, GCP**) for payment and financial workloads using **Terraform + Ansible**, cutting manual provisioning effort by **70%**
